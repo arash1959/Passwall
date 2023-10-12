@@ -81,7 +81,7 @@ echo "    ___    __  ___________  __  ______  __________ ___________   __
   / /| | / /|_/ // // /_/ / /_/ / / / /\__ \\__ \ / __/  / //  |/ /
  / ___ |/ /  / // // _  _/ __  / /_/ /___/ /__/ / /____/ // /|  /
 /_/  |_/_/  /_/___/_/ |_/_/ /_/\____//____/____/_____/___/_/ |_/                                                                                                
-telegram : @AmirHosseinTSL" >> /etc/banner
+telegram : @Artorx" >> /etc/banner
 
 sleep 1
 
@@ -213,7 +213,7 @@ echo -e "${GREEN} Password : 10203040 ${ENDCOLOR}"
 
 echo -e "${YELLOW}** Warning : ALL Settings Will be Change in 10 Seconds ** ${ENDCOLOR}"
 
-echo -e "${MAGENTA} Made With Love By : AmirHossein Choghaei ${ENDCOLOR}"
+echo -e "${MAGENTA} Made With Love By : Arash Torabi ${ENDCOLOR}"
 
 sleep 10
 
@@ -226,7 +226,7 @@ uci set wireless.default_radio0.network='lan'
 
 uci commit wireless
 
-uci set system.@system[0].hostname=By-AmirHossein
+uci set system.@system[0].hostname=By-ArashTorabi
 
 uci commit system
 
