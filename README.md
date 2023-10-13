@@ -1,5 +1,5 @@
 # Passwall
-[![visitor badge](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/AmirHosseinTSL) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![visitor badge](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/Artorx) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 # How to install Passwall + Xray on openwrt
 
 ![This is an image](https://pars-space.ir/wp-content/uploads/2023/09/v2ray-openwrt.jpg)
@@ -13,13 +13,13 @@
 
 # INSTALL PASSWALL : Run this command in openwrt remote ssh
 ```
-rm -f passwallx.sh && wget https://raw.githubusercontent.com/amirhosseinchoghaei/Passwall/main/passwallx.sh && chmod 777 passwallx.sh && sh passwallx.sh
+rm -f passwallx.sh && wget https://raw.githubusercontent.com/arash1959/Passwall/main/passwallx.sh && chmod 777 passwallx.sh && sh passwallx.sh
 ```
 Done !
 
 # IF You are Using SNAPSHOT VERSION
 ```
-rm -f passwalls.sh && wget https://raw.githubusercontent.com/amirhosseinchoghaei/Passwall/main/passwalls.sh && chmod 777 passwalls.sh && sh passwalls.sh
+rm -f passwalls.sh && wget https://raw.githubusercontent.com/arash1959/Passwall/main/passwalls.sh && chmod 777 passwalls.sh && sh passwalls.sh
 ```
 📍in case you use a snapshot build.
 
@@ -48,6 +48,4 @@ rm -f passwalls.sh && wget https://raw.githubusercontent.com/amirhosseinchoghaei
 
 ⚡ Server WARP Connection Fixed
 
-⚠️ **IRANCELL❌**  **RIGHTEL❌** Internet Can't install Passwall Packages , Please Change your internet Like MCi (Hamrah Aval)✅ , TLC (Mokhabrat)✅ , Shatel✅ , ZiTel✅ , ...
 
-After Installation you can use IRANCELL & RIGHTEL for vpn connections. 📶✅
